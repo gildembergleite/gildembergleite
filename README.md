@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gildembergleite
-- 👀 I’m interested in programming and data science
-- 🌱 I’m currently learning data science and machine learning
+- 👋 Hi, I’m Gildemberg Leite
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning agile methodology
 - 📫 gildembergleite@gmail.com
 
 <!---
