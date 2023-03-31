@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gildemberg Leite
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning agile methodology
 - 📫 gildembergleite@gmail.com
 
