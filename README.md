@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gildemberg Leite</h1>
 <h3 align="center">Passionate front-end developer in love with code <3</h3>
 
-- 🌱 I’m currently learning **DevOps and Flutter**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [gildembergleite.com.br](gildembergleite.com.br)
 
