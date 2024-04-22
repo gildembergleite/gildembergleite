@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [gildembergleite.com.br](gildembergleite.com.br)
+- 👨‍💻 All of my projects are available at [http://www.gildembergleite.com.br](gildembergleite.com.br)
 
 - 💬 Ask me about **React, Next.js, TypeScript and Tailwind CSS**
 
-- 📫 How to reach me **gildemebrgleite@gmail.com**
+- 📫 How to reach me **gildembergleite@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
